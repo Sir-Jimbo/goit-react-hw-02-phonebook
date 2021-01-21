@@ -1,4 +1,4 @@
-import Contact from 'components/PhoneBookApp/Contact/Contact';
+import Contact from 'components/Contact/Contact';
 import s from './ContactList.module.css';
 
 const ContactList = ({ items, onDeleteContact }) => {

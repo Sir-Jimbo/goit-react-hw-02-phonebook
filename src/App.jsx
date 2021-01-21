@@ -1,4 +1,4 @@
-import PhoneBook from './components/PhoneBookApp/PhoneBook/PhoneBook'
+import PhoneBook from './components/PhoneBook/PhoneBook'
 
 export default function App() {
   return (

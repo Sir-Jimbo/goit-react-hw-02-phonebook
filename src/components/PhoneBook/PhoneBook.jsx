@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { v4 as uuidv4 } from 'uuid';
-import Filter from 'components/PhoneBookApp/Filter/Filter'
-import ContactList from 'components/PhoneBookApp/ContactList/ContactList'
-import ContactForm from 'components/PhoneBookApp/ContactForm/ContactForm'
+import Filter from 'components/Filter/Filter'
+import ContactList from 'components/ContactList/ContactList'
+import ContactForm from 'components/ContactForm/ContactForm'
 import s from './PhoneBook.module.css'
 
 class PhoneBook extends Component {
